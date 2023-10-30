@@ -1,4 +1,5 @@
-# Deploy link
+# Deployment link
+https://offiql-assignment-sachin-chaturvedi.netlify.app/
 
 
 ![1](https://github.com/Sachin2903/frontented/assets/92660783/31cab7c1-2eb9-49ba-9f25-a6392e5fc254)
